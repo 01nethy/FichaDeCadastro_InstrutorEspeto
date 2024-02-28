@@ -1,1 +1,1 @@
-Cadastro somente para os autorizados. Ficha de Cadatro - Abada Capoeira.
+Cadastro somente para os alunos autorizados. Ficha de Cadatro - Abada Capoeira.
