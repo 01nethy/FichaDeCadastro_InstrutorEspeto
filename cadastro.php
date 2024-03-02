@@ -1,1 +1,2 @@
-jjj
+<?php
+echo ("ola");
